@@ -1,0 +1,59 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Thai Gamdom Share Game</title>
+<link rel="icon" href="http://image.free.in.th/v/2013/in/180613053637.png" type="image/gif" sizes="16x16">
+</head>
+
+<body>
+	<body style="background-color:#242424">
+	<center><img border="0" src="http://image.free.in.th/v/2013/iz/180613044252.png" /></a><br></center>
+	<br>
+	<center><font size=4 color=White>Cat Share Game</font>
+	<font size=3 color=White>
+<table width="700" border="3" align="center">
+    
+    	<TR align="center">
+			<TD width="120"  ROWSPAN = "2"><font color=White><B>Current Profit</B></TD>
+            <TD width="120"  ROWSPAN = "2"><font color=White><B>Cost/Ponit</B></TD>
+			<TD  COLSPAN = "2"><font size=3 color=White><b>Open Market</b></TD>
+			<TD  COLSPAN = "2"><font color=White><B>Close Market</B></TD>
+			<TD width="107"  ROWSPAN = "2"><font color=White><B>Profit</B></TD>
+		</TR>
+		<TR>
+			<TH width="80"><font color=White>Profit</TH>
+			<TH width="80"><font color=White>Rate</TH>
+			<TH width="63"><font color=White>Profit</TH>
+			<TH width="80"><font color=White>Rate</TH>
+		</TR>
+		<TR>
+			<TH><font color=White>15,700</TH>
+			<TH><font color=White>500</TH>
+			<TH><font color=White>15,700</TH>
+			<TH><font color=White>500</TH>
+          <TH><font color=White>-</TH>
+		  <TH><font color=White>-</TH>
+            <TH><font color=White>0</TH>
+		</TR>
+	</table>
+    <center>
+    <a href ="https://sunfunner.github.io/gamdomthai.community/rule"><font color=White><strong>Rule</strong></a>
+    <font size=3 color=White> | </a>
+    <a href ="https://sunfunner.github.io/gamdomthai.community/history"><font color=White><strong>History</strong></a>
+    </center>
+    <br><br>
+    <center><font size=4 color=White>Shareholder</font>
+    <table width="500" border="3" align="center">
+		<TR>
+			<TH width="150"><font color=White>Name</TH>
+			<TH width="200"><font color=White>Stream Name</TH>
+			<TH width="124"><font color=White>Current Point</TH>
+		</TR>
+        <TR>
+			<TH><font color=White>แมว Test</TH>
+			<TH><font color=White>แมว Untouch able</TH>
+			<TH><font color=White>500</TH>
+		</TR>
+	</table>
+</body>
+</html>
